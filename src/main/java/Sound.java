@@ -48,6 +48,5 @@ public class Sound
     for(int j =0; j<ans.length;j++){
       ans[j] = samples[j+count];
     }
-    return ans;
   }
 }
